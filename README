@@ -1,0 +1,25 @@
+* Python Project
+
+* Description
+This project is developed using Python and demonstrates a practical application built with Python programming concepts.
+
+* Features
+- Add your main features here
+- Handles user input
+- Stores and manages data
+- Provides required functionality
+
+* Technologies Used
+- Python
+- PyCharm
+- CSV files 
+
+* Project Files
+- tracker.py - Main file 
+
+* How to Run
+1. Install Python
+2. Download/clone this repository
+3. Run:
+
+python main.py
